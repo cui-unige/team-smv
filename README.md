@@ -10,6 +10,8 @@ to software-intensive systems.
 
 <!-- ## Job Offers -->
 
+---
+
 ## Domains of Activity
 
 * development of techniques for distributed object-oriented and reconfigurable system modelling
@@ -18,6 +20,8 @@ to software-intensive systems.
 * software prototyping
 * model engineering (MDA,UML, model transformation)
 
+---
+
 ## Domains of Application
 
 * embedded systems
@@ -25,20 +29,38 @@ to software-intensive systems.
 * enterprise web-based systems
 * Safety engineering : System and Human Risk Analysis (in collaboration with the Institute of Occupational Health Sciences, Lausanne)
 
+---
+
 ## Members
 
-| :--- | :---: | :---: | :---: |
-| ---- | ----- | ----- | ----- |
+| :--- | :---: | :--- | :--- |
 | Didier Buchs | <img src="{{ site.url }}/team-smv/assets/didier-buchs.jpeg" height="128"> | Professor | [<img src="{{ site.url }}/team-smv/assets/researchgate.png" height="24">](https://www.researchgate.net/profile/Didier_Buchs) [<img src="{{ site.url }}/team-smv/assets/linkedin.png" height="24">](https://ch.linkedin.com/in/didier-buchs-465bb09)|
 | Stefan Klikovits | <img src="{{ site.url }}/team-smv/assets/stefan-klikovits.png" height="128"> | Ph.D. Student | [<img src="{{ site.url }}/team-smv/assets/researchgate.png" height="24">](https://www.researchgate.net/profile/Stefan_Klikovits) [<img src="{{ site.url }}/team-smv/assets/linkedin.png" height="24">](https://www.linkedin.com/in/stefanklikovits)|
 | Alban Linard | <img src="{{ site.url }}/team-smv/assets/alban-linard.jpeg" height="128"> | Post-doc | [<img src="{{ site.url }}/team-smv/assets/researchgate.png" height="24">](https://www.researchgate.net/profile/Alban_Linard) [<img src="{{ site.url }}/team-smv/assets/linkedin.png" height="24">](https://www.linkedin.com/in/albanlinard)|
 | Dimitri Racordon | <img src="{{ site.url }}/team-smv/assets/dimitri-racordon.jpeg" height="128"> | Ph.D. Student | [<img src="{{ site.url }}/team-smv/assets/researchgate.png" height="24">](https://www.researchgate.net/profile/Dimitri_Racordon) [<img src="{{ site.url }}/team-smv/assets/linkedin.png" height="24">](https://www.linkedin.com/in/dimitri-racordon-830972104)|
 
+### Former Members
+
+
+---
+
 ## Publications
+
+### Journals
+
+### Conferences
+
+### Technical Reports
+
+---
 
 ## Research Projects
 
+---
+
 ## Softwares
+
+---
 
 ## Contact
 
