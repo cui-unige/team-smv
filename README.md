@@ -128,7 +128,7 @@ There is currently no job.
 
 * [Modélisation et Vérification](https://github.com/cui-unige/modelisation-verification)
 * [Outils Formels de Modélisation](https://github.com/cui-unige/outils-formels-modelisation)
-* [Outils Formels Avancés](https://github.com/cui-unige/outils-formels-avances)
+* [Outils Formels Avancés/Concurrence et répartition](https://github.com/cui-unige/outils-formels-avances)
 * [Sémantique des Langages Informatiques](https://github.com/cui-unige/semantique)
 
 ---
