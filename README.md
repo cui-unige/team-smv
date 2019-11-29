@@ -10,6 +10,13 @@ to software-intensive systems.
 
 ---
 
+Si vous avez des idées de projets, n'hésitez pas à nous en faire part.
+Nous serons ravi d'en discuter et d'adapter au mieux le sujet pour travailler
+sur une thématique qui vous intéresse.
+
+Pour tout contact pour l'un de ces projets (ou pour proposer votre projet):
+damien.morard@unige.ch
+
 ## Projets de Bachelor
 
 - Création de cartes à l'aide de l'impression 3D pour représenter un langage de programmation.
@@ -21,6 +28,7 @@ to software-intensive systems.
 - Hero nets (Higher-order Petri nets): Création d'un outil de visualisation.
 Les Hero nets ressemblent à des High-level Petri nets à la différence que les tokens peuvent être des higher-order functions.
 - Création d'une librairie pour écrire différents types de DD (Decision diagrams).
+- Comprendre quels sont les mécanismes des nouveaux langages de programmations qui sont difficiles à appréhender pour les utilisateurs.
 
 ---
 
@@ -32,19 +40,19 @@ There is currently no job.
 
 ## Domains of Activity
 
-* Development of techniques for distributed object-oriented and reconfigurable system modelling
-* Test selection techniques
-* Model validation
+* Model checking
+* Programming Language
 * Software prototyping
 * Model engineering (MDA,UML, model transformation)
+
 
 ---
 
 ## Domains of Application
 
+* Concurrent system
 * Embedded systems
 * Ubiquitous systems
-* Enterprise web-based systems
 * Safety engineering : System and Human Risk Analysis (in collaboration with the Institute of Occupational Health Sciences, Lausanne)
 
 ---
