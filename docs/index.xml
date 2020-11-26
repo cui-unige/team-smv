@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semantics, Modelling and Verification</title>
+    <link>https://cui-unige.github.io/team-smv/</link>
+    <description>Recent content on Semantics, Modelling and Verification</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://cui-unige.github.io/team-smv/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

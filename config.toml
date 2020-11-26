@@ -1,8 +1,10 @@
-baseURL                          = "https://cui-unige.github.io/team-smv/"   # Your domain name. Must end with "/"
+baseURL                          = "http://cui-unige.github.io/team-smv/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
+
+publishDir = "docs"
 
 [params]
     themeStyle                   = "light"                 # Choose "light" or "dark"
