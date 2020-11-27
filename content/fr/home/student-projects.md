@@ -8,7 +8,6 @@ Nous avons actuellement plusieurs propositions de projets pour les étudiants de
 #### Projets de Bachelor
 
 * Développement d'un outil pour la définition des règles de sémantique de langages de programmation et leur dérivation mécanisée
-* ...
 
 #### Projets de Master
 

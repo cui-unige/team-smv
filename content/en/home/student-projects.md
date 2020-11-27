@@ -8,7 +8,6 @@ We currently have several propositions for students who would be interested in d
 #### Bachelor Projects
 
 * Development of a tool for the definition of semantic rules for programming languages and their mechanized derivation 
-* ...
 
 #### Master Projects
 
