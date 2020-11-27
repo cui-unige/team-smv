@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Semantics, Modelling and Verification</title>
-    <link>/fr/</link>
+    <link>https://cui-unige.github.io/fr/</link>
     <description>Recent content on Semantics, Modelling and Verification</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="/fr/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="https://cui-unige.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
