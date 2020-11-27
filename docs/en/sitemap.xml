@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cui-unige.github.io/categories/</loc>
+    <loc>https://cui-unige.github.io/team-smv/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://cui-unige.github.io/fr/categories/"
+                href="https://cui-unige.github.io/team-smv/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cui-unige.github.io/categories/"
+                href="https://cui-unige.github.io/team-smv/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://cui-unige.github.io/</loc>
+    <loc>https://cui-unige.github.io/team-smv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://cui-unige.github.io/fr/"
+                href="https://cui-unige.github.io/team-smv/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cui-unige.github.io/"
+                href="https://cui-unige.github.io/team-smv/"
                 />
   </url>
   
   <url>
-    <loc>https://cui-unige.github.io/tags/</loc>
+    <loc>https://cui-unige.github.io/team-smv/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://cui-unige.github.io/fr/tags/"
+                href="https://cui-unige.github.io/team-smv/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cui-unige.github.io/tags/"
+                href="https://cui-unige.github.io/team-smv/tags/"
                 />
   </url>
   

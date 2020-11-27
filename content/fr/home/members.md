@@ -6,18 +6,18 @@ weight: 1
 **Prof. Didier Buchs**, Chef du laboratoire  
 {{< rawhtml >}}
 <div>
-  <img src="../didier-buchs.jpeg" width="150" style="margin: 0px auto;">
+  <img src="https://cui-unige.github.io/team-smv/didier-buchs.jpeg" width="150" style="margin: 0px auto;">
   <div style="display: inline-block;">
-    <a href="https://github.com/didierbuchs"><img src="../github.svg" width="40" title="github" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://github.com/didierbuchs"><img src="https://cui-unige.github.io/team-smv/github.svg" width="40" title="github" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
   <div style="display: inline-block;">
-    <a href="https://www.researchgate.net/profile/Didier_Buchs"><img src="../researchgate.svg" width="40" title="researchgate" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://www.researchgate.net/profile/Didier_Buchs"><img src="https://cui-unige.github.io/team-smv/researchgate.svg" width="40" title="researchgate" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
   <div style="display: inline-block;">
-    <a href="https://ch.linkedin.com/in/didier-buchs-465bb09"><img src="../linkedin.svg" width="40" title="linkedin" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://ch.linkedin.com/in/didier-buchs-465bb09"><img src="https://cui-unige.github.io/team-smv/linkedin.svg" width="40" title="linkedin" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
   <div style="display: inline-block;">
-    <a href="http://dblp.uni-trier.de/pers/hd/b/Buchs:Didier"><img src="../dblp.svg" width="40" title="dblp" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="http://dblp.uni-trier.de/pers/hd/b/Buchs:Didier"><img src="https://cui-unige.github.io/team-smv/dblp.svg" width="40" title="dblp" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -25,18 +25,18 @@ weight: 1
 **Dr. Dimitri Racordon**, Post-doctorant
 {{< rawhtml >}}
 <div>
-  <img src="../dimitri-racordon.jpeg" width="150" style="margin: 0px auto;">
+  <img src="https://cui-unige.github.io/team-smv/dimitri-racordon.jpeg" width="150" style="margin: 0px auto;">
   <div style="display: inline-block;">
-    <a href="https://github.com/kyouko-taiga"><img src="../github.svg" width="40" title="github" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://github.com/kyouko-taiga"><img src="https://cui-unige.github.io/team-smv/github.svg" width="40" title="github" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
   <div style="display: inline-block;">
-    <a href="https://www.researchgate.net/profile/Dimitri_Racordon"><img src="../researchgate.svg" width="40" title="researchgate" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://www.researchgate.net/profile/Dimitri_Racordon"><img src="https://cui-unige.github.io/team-smv/researchgate.svg" width="40" title="researchgate" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
   <div style="display: inline-block;">
-    <a href="https://www.linkedin.com/in/dimitri-racordon-830972104"><img src="../linkedin.svg" width="40" title="linkedin" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://www.linkedin.com/in/dimitri-racordon-830972104"><img src="https://cui-unige.github.io/team-smv/linkedin.svg" width="40" title="linkedin" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
   <div style="display: inline-block;">
-    <a href="http://dblp.uni-trier.de/pers/hd/r/Racordon:Dimitri"><img src="../dblp.svg" width="40" title="dblp" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="http://dblp.uni-trier.de/pers/hd/r/Racordon:Dimitri"><img src="https://cui-unige.github.io/team-smv/dblp.svg" width="40" title="dblp" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -44,18 +44,18 @@ weight: 1
 **Damien Morard**, Doctorant
 {{< rawhtml >}}
 <div>
-  <img src="../damien-morard.jpeg" width="150" style="margin: 0px auto;">
+  <img src="https://cui-unige.github.io/team-smv/damien-morard.jpeg" width="150" style="margin: 0px auto;">
   <div style="display: inline-block;">
-    <a href="https://github.com/damdamo"><img src="../github.svg" width="40" title="github" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://github.com/damdamo"><img src="https://cui-unige.github.io/team-smv/github.svg" width="40" title="github" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
   <div style="display: inline-block;">
-    <a href="https://www.researchgate.net/profile/Damien_Morard"><img src="../researchgate.svg" width="40" title="researchgate" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://www.researchgate.net/profile/Damien_Morard"><img src="https://cui-unige.github.io/team-smv/researchgate.svg" width="40" title="researchgate" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
   <div style="display: inline-block;">
-    <a href="https://www.linkedin.com/in/damienmorard"><img src="../linkedin.svg" width="40" title="linkedin" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://www.linkedin.com/in/damienmorard"><img src="https://cui-unige.github.io/team-smv/linkedin.svg" width="40" title="linkedin" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
   <div style="display: inline-block;">
-    <a href="http://dblp.uni-trier.de/pers/hd/m/Morard:Damien"><img src="../dblp.svg" width="40" title="dblp" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="http://dblp.uni-trier.de/pers/hd/m/Morard:Damien"><img src="https://cui-unige.github.io/team-smv/dblp.svg" width="40" title="dblp" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -63,18 +63,18 @@ weight: 1
 **Aurélien Coet**, Doctorant
 {{< rawhtml >}}
 <div>
-  <img src="../aurelien-coet.png" width="150" style="margin: 0px auto;">
+  <img src="https://cui-unige.github.io/team-smv/aurelien-coet.png" width="150" style="margin: 0px auto;">
   <div style="display: inline-block;">
-    <a href="https://github.com/coetaur0"><img src="../github.svg" width="40" title="github" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://github.com/coetaur0"><img src="https://cui-unige.github.io/team-smv/github.svg" width="40" title="github" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
   <div style="display: inline-block;">
-    <a href="https://www.researchgate.net/profile/Aurelien_Coet"><img src="../researchgate.svg" width="40" title="researchgate" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://www.researchgate.net/profile/Aurelien_Coet"><img src="https://cui-unige.github.io/team-smv/researchgate.svg" width="40" title="researchgate" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
   <div style="display: inline-block;">
-    <a href="https://www.linkedin.com/in/aurélien-coet-a13314185"><img src="../linkedin.svg" width="40" title="linkedin" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://www.linkedin.com/in/aurélien-coet-a13314185"><img src="https://cui-unige.github.io/team-smv/linkedin.svg" width="40" title="linkedin" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
   <div style="display: inline-block;">
-    <a href="https://dblp.uni-trier.de/pid/229/9117.html"><img src="../dblp.svg" width="40" title="dblp" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://dblp.uni-trier.de/pid/229/9117.html"><img src="https://cui-unige.github.io/team-smv/dblp.svg" width="40" title="dblp" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
 </div>
 {{< /rawhtml >}}
