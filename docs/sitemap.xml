@@ -2,12 +2,12 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://cui-unige.github.io/team-smv/fr/sitemap.xml</loc>
+    <loc>/en/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://cui-unige.github.io/team-smv/en/sitemap.xml</loc>
+    <loc>/fr/sitemap.xml</loc>
     
   </sitemap>
   
