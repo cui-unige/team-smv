@@ -110,7 +110,7 @@ publishDir = "docs"
         languageCode     = "fr"
         contentDir       = "content/fr"
         weight           = 1
-        title            = "Semantics, Modelling and Verification"
+        title            = "Sémantique, Modélisation et Vérification"
         [languages.fr.params]
             description  = "Site web du groupe Sémantique, Modélisation et Vérification de l'UNIGE"
             # footerText   = ""
