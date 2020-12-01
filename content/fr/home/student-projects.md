@@ -7,7 +7,7 @@ Nous avons actuellement plusieurs propositions de projets pour les étudiants de
 
 #### Projets de Bachelor
 
-* Développement d'un outil pour définir les règles de sémantique d'un langage de programmation et les dériver mécaniquement.
+* Développement d'un outil pour définir les règles de sémantique d'un langage de programmation et les dériver mécaniquement. (Exemple d'un outil qui fait un travail similaire pour le calcul des séquents: http://logitext.mit.edu/main)
 * Conception et implémentation d'un outil d'analyse statique pour vérifier que les variables d'un programme respectent la propriété de [*definite assigment*](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/variables).
 * Conception et implémentation d'une approche pour modéliser des [*substructural type systems*](https://en.wikipedia.org/wiki/Substructural_type_system) avec des réseaux de Petri. Des exemples de langages qui utilisent ce genre de systèmes de type sont [Rust](https://www.rust-lang.org/fr) et [Pony](https://www.ponylang.io/).
 
