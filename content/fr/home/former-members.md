@@ -1,6 +1,6 @@
 ---
 title: "Anciens membres"
-weight: 4
+weight: 5
 ---
 
 Anciens membres du laboratoire SMV:

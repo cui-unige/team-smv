@@ -6,5 +6,45 @@
     <description>Recent content on Sémantique, Modélisation et Vérification</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language><atom:link href="https://cui-unige.github.io/team-smv/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drone Programmer</title>
+      <link>https://cui-unige.github.io/team-smv/fr/projects/drone-programmer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cui-unige.github.io/team-smv/fr/projects/drone-programmer/</guid>
+      <description>Dans ce projet, deux de nos étudiants de bachelor ont collaboré au développement d&amp;rsquo;une application pour planifier des vols de drones.
+Vous pouvez trouver le travail de Deniz Sungurtekin ici et celui de Matthias Tonini ici.</description>
+    </item>
+    
+    <item>
+      <title>Space Encoders</title>
+      <link>https://cui-unige.github.io/team-smv/fr/projects/space-encoders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cui-unige.github.io/team-smv/fr/projects/space-encoders/</guid>
+      <description>Dans ce projet, deux de nos étudiants ont collaboré à l&amp;rsquo;élaboration d&amp;rsquo;un &amp;ldquo;serious game&amp;rdquo; coopératif pour enseigner des concepts de programmation à des débutants.
+Vous pouvez trouver le travail de bachelor de Marvin Fouratie ici, et celui de Patrick Sardinha ici.</description>
+    </item>
+    
+    <item>
+      <title>Water World</title>
+      <link>https://cui-unige.github.io/team-smv/fr/projects/water-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cui-unige.github.io/team-smv/fr/projects/water-world/</guid>
+      <description>Dans ce travail de bachelor, des techniques issues du machine learning ont été appliquées afin d&amp;rsquo;essayer de prédire la quantité d&amp;rsquo;eau nécessaire pour maintenir la terre d&amp;rsquo;une plantation à un niveau d&amp;rsquo;humidité donné.
+Vous pouvez trouver le travail d&amp;rsquo;Adrien Chabert ici.</description>
+    </item>
+    
+    <item>
+      <title>FunView</title>
+      <link>https://cui-unige.github.io/team-smv/fr/projects/funview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cui-unige.github.io/team-smv/fr/projects/funview/</guid>
+      <description>Dans ce projet de bachelor, un système a été développé pour traduire des termes écrits dans un langage de programmation fonctionnelle simple en une représentation graphique.
+Vous pouvez trouver le travail de Matthieu Vos ici.</description>
+    </item>
+    
   </channel>
 </rss>

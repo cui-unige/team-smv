@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Past Student Projects on Semantics, Modelling and Verification</title>
+    <link>https://cui-unige.github.io/team-smv/projects/</link>
+    <description>Recent content in Past Student Projects on Semantics, Modelling and Verification</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://cui-unige.github.io/team-smv/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drone Programmer</title>
+      <link>https://cui-unige.github.io/team-smv/projects/drone-programmer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cui-unige.github.io/team-smv/projects/drone-programmer/</guid>
+      <description>In this project, two of our bachelor students collaborated on the development of an application to plan drone flights.
+You can find Deniz Sungurtekin&amp;rsquo;s thesis here and Matthias Tonini&amp;rsquo;s thesis here.</description>
+    </item>
+    
+    <item>
+      <title>Space Encoders</title>
+      <link>https://cui-unige.github.io/team-smv/projects/space-encoders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cui-unige.github.io/team-smv/projects/space-encoders/</guid>
+      <description>In this project, two of our students collaborated on the elaboration of a cooperative &amp;ldquo;serious game&amp;rdquo; to teach programming concepts to beginners.
+You can find Marvin Fouratie&amp;rsquo;s bachelor thesis here, and Patrick Sardinha&amp;rsquo;s thesis here. Note that both documents are written in French.</description>
+    </item>
+    
+    <item>
+      <title>Water World</title>
+      <link>https://cui-unige.github.io/team-smv/projects/water-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cui-unige.github.io/team-smv/projects/water-world/</guid>
+      <description>In this bachelor project, techniques from machine learning were applied to try and predict the amount of water necessary to keep the soil in a plantation at a certain level of humidity.
+You can find Adrien Chabert&amp;rsquo;s thesis here. Note that the document is written in French.</description>
+    </item>
+    
+    <item>
+      <title>FunView</title>
+      <link>https://cui-unige.github.io/team-smv/projects/funview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cui-unige.github.io/team-smv/projects/funview/</guid>
+      <description>In this bachelor project, a system was developed to translate terms written in a simple functional programming language into a graphical representation.
+You can find Matthieu Vos&#39; thesis here. Note that the document is written in French.</description>
+    </item>
+    
+  </channel>
+</rss>
