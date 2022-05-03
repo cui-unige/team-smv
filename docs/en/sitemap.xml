@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://cui-unige.github.io/team-smv/projects/funblocks-checker/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cui-unige.github.io/team-smv/fr/projects/funblocks-checker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cui-unige.github.io/team-smv/projects/funblocks-checker/"
+                />
+  </url><url>
+    <loc>https://cui-unige.github.io/team-smv/projects/declarative-graphics-programming/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cui-unige.github.io/team-smv/fr/projects/declarative-graphics-programming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cui-unige.github.io/team-smv/projects/declarative-graphics-programming/"
+                />
+  </url><url>
     <loc>https://cui-unige.github.io/team-smv/projects/drone-programmer/</loc>
     <xhtml:link
                 rel="alternate"
@@ -14,51 +37,7 @@
                 hreflang="en"
                 href="https://cui-unige.github.io/team-smv/projects/drone-programmer/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://cui-unige.github.io/team-smv/projects/space-encoders/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://cui-unige.github.io/team-smv/fr/projects/space-encoders/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cui-unige.github.io/team-smv/projects/space-encoders/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cui-unige.github.io/team-smv/projects/water-world/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://cui-unige.github.io/team-smv/fr/projects/water-world/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cui-unige.github.io/team-smv/projects/water-world/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cui-unige.github.io/team-smv/projects/funview/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://cui-unige.github.io/team-smv/fr/projects/funview/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cui-unige.github.io/team-smv/projects/funview/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cui-unige.github.io/team-smv/projects/</loc>
     <xhtml:link
                 rel="alternate"
@@ -70,9 +49,43 @@
                 hreflang="en"
                 href="https://cui-unige.github.io/team-smv/projects/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://cui-unige.github.io/team-smv/projects/space-encoders/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cui-unige.github.io/team-smv/fr/projects/space-encoders/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cui-unige.github.io/team-smv/projects/space-encoders/"
+                />
+  </url><url>
+    <loc>https://cui-unige.github.io/team-smv/projects/water-world/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cui-unige.github.io/team-smv/fr/projects/water-world/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cui-unige.github.io/team-smv/projects/water-world/"
+                />
+  </url><url>
+    <loc>https://cui-unige.github.io/team-smv/projects/funview/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cui-unige.github.io/team-smv/fr/projects/funview/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cui-unige.github.io/team-smv/projects/funview/"
+                />
+  </url><url>
     <loc>https://cui-unige.github.io/team-smv/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -84,9 +97,7 @@
                 hreflang="en"
                 href="https://cui-unige.github.io/team-smv/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cui-unige.github.io/team-smv/</loc>
     <xhtml:link
                 rel="alternate"
@@ -98,9 +109,7 @@
                 hreflang="en"
                 href="https://cui-unige.github.io/team-smv/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cui-unige.github.io/team-smv/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -113,5 +122,4 @@
                 href="https://cui-unige.github.io/team-smv/tags/"
                 />
   </url>
-  
 </urlset>

@@ -7,13 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://cui-unige.github.io/team-smv/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Funblocks Checker</title>
+      <link>https://cui-unige.github.io/team-smv/projects/funblocks-checker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cui-unige.github.io/team-smv/projects/funblocks-checker/</guid>
+      <description>Master thesis
+Author: Marvin Fourastié
+Language: English
+Document available here
+Abstract The teaching of computer science has become essential in the majority of educational programs. Therefore, many programming languages were born with the will to propose a first programming experience to beginners, usually through sequences of instructions to execute. However, the programming language FunBlocks explores another approach focusing on state transformations based on term rewriting systems. Additionally, it is an educative programming language providing a visual interface inspired by block programming.</description>
+    </item>
+    
+    <item>
+      <title>Declarative Graphics Programming</title>
+      <link>https://cui-unige.github.io/team-smv/projects/declarative-graphics-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cui-unige.github.io/team-smv/projects/declarative-graphics-programming/</guid>
+      <description>Master thesis
+Author: Patrick Sardinha
+Language: French
+Document available here
+Abstract La programmation graphique permet de créer des applications 3D et est notamment utilisée pour la conception de jeux vidéo ainsi que pour la modélisation. A l&amp;rsquo;heure actuelle, la spécification OpenGL est l&amp;rsquo;une des plus utilisées pour la création d&amp;rsquo;applications graphiques et offre un ensemble de fonctions donnant la possibilité aux programmeurs de déclarer et de manipuler des objets 3D ainsi que des images.</description>
+    </item>
+    
+    <item>
       <title>Drone Programmer</title>
       <link>https://cui-unige.github.io/team-smv/projects/drone-programmer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cui-unige.github.io/team-smv/projects/drone-programmer/</guid>
-      <description>In this project, two of our bachelor students collaborated on the development of an application to plan drone flights.
-You can find Deniz Sungurtekin&amp;rsquo;s thesis here and Matthias Tonini&amp;rsquo;s thesis here.</description>
+      <description>Bachelor thesis Authors: Deniz Sungurtekin and Matthias Tonini Language: French Deniz&amp;rsquo;s thesis is available here, Matthias&amp;rsquo; here.
+Abstract Les drones seront de plus en plus présents dans nos vies. De nos jours, les drones sont déjà utilisés pour de nombreuses activités différentes telles que l’agriculture, la prise de vidéo pour des films/vidéos/documentaires, la recherche de survivants, etc. À l’avenir, les drones prendront encore plus de place dans nos vies. Les entreprises de livraison cherchent à les utiliser afin de pouvoir livrer des colis à moindre coût et plus rapidement, les systèmes de santé se penchent sur leur possible utilisation en tant qu’ambulances.</description>
     </item>
     
     <item>
@@ -22,8 +48,11 @@ You can find Deniz Sungurtekin&amp;rsquo;s thesis here and Matthias Tonini&amp;r
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cui-unige.github.io/team-smv/projects/space-encoders/</guid>
-      <description>In this project, two of our students collaborated on the elaboration of a cooperative &amp;ldquo;serious game&amp;rdquo; to teach programming concepts to beginners.
-You can find Marvin Fouratie&amp;rsquo;s bachelor thesis here, and Patrick Sardinha&amp;rsquo;s thesis here. Note that both documents are written in French.</description>
+      <description>Bachelor thesis
+Authors: Marvin Fourastié and Patrick Sardinha
+Language: French
+Marvin&amp;rsquo;s thesis is available here, and Patrick&amp;rsquo;s here
+Abstract Aujourd’hui, l’apprentissage de l’informatique devient de plus en plus populaire dans les écoles dàs le plus jeune âge. Il existe de nombreuses applications pour apprendre ces concepts, mais celles-ci sont pour la plupart des jeux de programmation sur tablette ou ordinateur. L’idée ici est d’élaborer un jeu de société qui serait donc un &amp;ldquo;serious game&amp;rdquo; qui permettrait à un large public de s’initier ou de s’entraîner à travers certains concepts fondamentaux de l’informatique.</description>
     </item>
     
     <item>
@@ -32,8 +61,10 @@ You can find Marvin Fouratie&amp;rsquo;s bachelor thesis here, and Patrick Sardi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cui-unige.github.io/team-smv/projects/water-world/</guid>
-      <description>In this bachelor project, techniques from machine learning were applied to try and predict the amount of water necessary to keep the soil in a plantation at a certain level of humidity.
-You can find Adrien Chabert&amp;rsquo;s thesis here. Note that the document is written in French.</description>
+      <description>Bachelor thesis
+Author: Adrien Chabert
+Language: French Document available here
+Abstract L’eau, H2O, est à première vue une ressource abondante sur notre terre. En effet, plus de 70% de la surface de la terre est recouvert d’eau. On la retrouve sous forme liquide (mers, lacs, rivières, nappes), sous forme de glace et sous forme de gaz (dans les nuages, dans l’atmosphère). Cependant, seulement 3% de cette eau est de l’eau douce, soit 35 millions de kilomètres cubes.</description>
     </item>
     
     <item>
@@ -42,8 +73,11 @@ You can find Adrien Chabert&amp;rsquo;s thesis here. Note that the document is w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cui-unige.github.io/team-smv/projects/funview/</guid>
-      <description>In this bachelor project, a system was developed to translate terms written in a simple functional programming language into a graphical representation.
-You can find Matthieu Vos&#39; thesis here. Note that the document is written in French.</description>
+      <description>Bachelor thesis
+Author: Matthieu Vos
+Language: French
+Document available here
+Abstract À l’heure actuelle, l’informatique est omniprésente. Qu’on l’utilise à des fins de loisirs ou de manière professionnelle, tout le monde emploie un outil informatique. Cependant, dans le système scolaire, l’informatique et son enseignement sont souvent relié aux mathématiques. Beaucoup y voient un amas de formules. Cependant, l’informatique peut très bien être utilisée pour résoudre des problèmes sans calcul. Il suffit de voir tous les domaines dans lesquels un outil informatique est présent.</description>
     </item>
     
   </channel>
