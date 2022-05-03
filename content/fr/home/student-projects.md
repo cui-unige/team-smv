@@ -7,14 +7,14 @@ Nous avons actuellement plusieurs propositions de projets pour les étudiants de
 
 #### Projets de Bachelor
 
-* Développement d'un outil pour définir les règles de sémantique d'un langage de programmation et les dériver mécaniquement (pour un exemple d'outil qui fait un travail similaire pour le calcul des séquents, vous pouvez consulter [ceci](http://logitext.mit.edu/main)).
-* Conception et implémentation d'un outil d'analyse statique pour vérifier que les variables d'un programme respectent la propriété de [*definite assigment*](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/variables).
-* Conception et implémentation d'une approche pour modéliser des [*substructural type systems*](https://en.wikipedia.org/wiki/Substructural_type_system) avec des réseaux de Petri. Des exemples de langages qui utilisent ce genre de systèmes de type sont [Rust](https://www.rust-lang.org/fr) et [Pony](https://www.ponylang.io/).
+* Développement d'une approche et d'un outil pour la visualisation de réseau de Petri de haut niveau.
+* Implémentation d'un langage fonctionnel avec un modèle d'exécution *lazy*.
+* Développement d'un jeu pour l'enseignement de la logique.
 
 #### Projets de Master
 
-* Développement d'un outil pour la visualisation de *Hero Nets*. Les Hero Nets sont un type particulier de réseaux de Petri de haut niveau qui peuvent manipuler des fonctions de haut niveau comme tokens.
-* Conception et implémentation d'un outil pour détecter des *memory leaks* dans des programmes [Swift](https://swift.org/). De bonnes connaissances en C/C++ sont requises pour ce projet, car il nécessite de travailler avec la runtime de Swift.
-* Conception et implémentation d'une approche pour analyser et rapporter la complexité du *type checking* sur les expressions d'un programme.
+* Développement d'un *forward model checker* pour des formules CTL.
+* Application du *model checking* pour la vérification de protocoles de sécurité.
+* Développement d'un outil pour la visualisation de traces d'erreur dans des programmes Rust.
 
 Les étudiants sont évidemment également les bienvenus s'ils ont d'autres idées de projets à nous proposer.

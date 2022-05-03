@@ -5,6 +5,7 @@ weight: 5
 
 Former members of the SMV lab:
 
+Emmanouela Stachtiari
 Stefan Klikovits  
 Alban Linard  
 David Lawrence  

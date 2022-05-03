@@ -22,21 +22,21 @@ weight: 1
 </div>
 {{< /rawhtml >}}
 
-**Dr. Dimitri Racordon**, Post-doctorant
+**Dr. Steve Hostettler**, Chargé d'enseignement
 {{< rawhtml >}}
 <div>
-  <img src="https://cui-unige.github.io/team-smv/dimitri-racordon.jpeg" width="150" style="margin: 0px auto;">
+  <img src="../steve-hostettler.jpg" width="150" style="margin: 0px auto;">
   <div style="display: inline-block;">
-    <a href="https://github.com/kyouko-taiga"><img src="https://cui-unige.github.io/team-smv/github.svg" width="40" title="github" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://github.com/hostettler"><img src="../github.svg" width="40" title="github" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
   <div style="display: inline-block;">
-    <a href="https://www.researchgate.net/profile/Dimitri_Racordon"><img src="https://cui-unige.github.io/team-smv/researchgate.svg" width="40" title="researchgate" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://www.researchgate.net/profile/Steve_Hostettler"><img src="../researchgate.svg" width="40" title="researchgate" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
   <div style="display: inline-block;">
-    <a href="https://www.linkedin.com/in/dimitri-racordon-830972104"><img src="https://cui-unige.github.io/team-smv/linkedin.svg" width="40" title="linkedin" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://www.linkedin.com/in/stevehostettler/"><img src="../linkedin.svg" width="40" title="linkedin" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
   <div style="display: inline-block;">
-    <a href="http://dblp.uni-trier.de/pers/hd/r/Racordon:Dimitri"><img src="https://cui-unige.github.io/team-smv/dblp.svg" width="40" title="dblp" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="http://dblp.uni-trier.de/pers/hd/h/Hostettler:Steve"><img src="../dblp.svg" width="40" title="dblp" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -79,21 +79,21 @@ weight: 1
 </div>
 {{< /rawhtml >}}
 
-**Dr. Steve Hostettler**, Chargé d'enseignement
+**Dr. Dimitri Racordon**, Associé de recherche
 {{< rawhtml >}}
 <div>
-  <img src="../steve-hostettler.jpg" width="150" style="margin: 0px auto;">
+  <img src="https://cui-unige.github.io/team-smv/dimitri-racordon.jpeg" width="150" style="margin: 0px auto;">
   <div style="display: inline-block;">
-    <a href="https://github.com/hostettler"><img src="../github.svg" width="40" title="github" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://github.com/kyouko-taiga"><img src="https://cui-unige.github.io/team-smv/github.svg" width="40" title="github" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
   <div style="display: inline-block;">
-    <a href="https://www.researchgate.net/profile/Steve_Hostettler"><img src="../researchgate.svg" width="40" title="researchgate" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://www.researchgate.net/profile/Dimitri_Racordon"><img src="https://cui-unige.github.io/team-smv/researchgate.svg" width="40" title="researchgate" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
   <div style="display: inline-block;">
-    <a href="https://www.linkedin.com/in/stevehostettler/"><img src="../linkedin.svg" width="40" title="linkedin" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="https://www.linkedin.com/in/dimitri-racordon-830972104"><img src="https://cui-unige.github.io/team-smv/linkedin.svg" width="40" title="linkedin" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
   <div style="display: inline-block;">
-    <a href="http://dblp.uni-trier.de/pers/hd/h/Hostettler:Steve"><img src="../dblp.svg" width="40" title="dblp" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
+    <a href="http://dblp.uni-trier.de/pers/hd/r/Racordon:Dimitri"><img src="https://cui-unige.github.io/team-smv/dblp.svg" width="40" title="dblp" style="border: 0px; border-radius: 0px; box-shadow: 0px 0px;"></a>
   </div>
 </div>
 {{< /rawhtml >}}

@@ -14,5 +14,7 @@ Suisse
 ```  
 --
 
-Vous pouvez également nous contacter par e-mail à l'adresse:  
+Vous pouvez également nous contacter par e-mail aux adresses:
+[aurelien.coet@unige.ch](mailto:aurelien.coet@unige.ch)
+ou
 [damien.morard@unige.ch](mailto:damien.morard@unige.ch)
